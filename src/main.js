@@ -2,7 +2,7 @@ import Vue from 'vue';
 import Vuex from 'vuex';
 import VueRouter from 'vue-router';
 import routerOptions from './router/routerOptions.js';
-import storeOptions from './stores/Store.js';
+import storeOptions from './stores/store.js';
 import App from './App.vue';
 
 
